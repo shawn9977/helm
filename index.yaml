@@ -9,7 +9,7 @@ entries:
     name: ai-inference
     type: application
     urls:
-    - https://raw.githubusercontent.com/monstercy/helm_repo/main/ai-inference-0.8.2.tgz
+    - ai-inference-0.8.2.tgz
     version: 0.8.2
   ai-structuring:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: ai-structuring
     type: application
     urls:
-    - https://raw.githubusercontent.com/monstercy/helm_repo/main/ai-structuring-0.8.2.tgz
+    - ai-structuring-0.8.2.tgz
     version: 0.8.2
   itm-mqtt-broker:
   - apiVersion: v2
@@ -31,7 +31,7 @@ entries:
     name: itm-mqtt-broker
     type: application
     urls:
-    - https://raw.githubusercontent.com/monstercy/helm_repo/main/itm-mqtt-broker-1.0.0.tgz
+    - itm-mqtt-broker-1.0.0.tgz
     version: 1.0.0
   itm-services:
   - apiVersion: v2
@@ -42,6 +42,6 @@ entries:
     name: itm-services
     type: application
     urls:
-    - https://raw.githubusercontent.com/monstercy/helm_repo/main/itm-services-2.0.0.tgz
+    - itm-services-2.0.0.tgz
     version: 2.0.0
 generated: "2023-03-24T16:22:58.834344443+08:00"
